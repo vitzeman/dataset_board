@@ -1,0 +1,6 @@
+__pycache__/
+captures/
+
+data/*/color
+data/*/depth
+calib/*
